@@ -1,5 +1,7 @@
 # Timesheet
 
+A site which allows users to clock in and clock out once per day. The site keeps track of the user's work hours in a spreadsheet.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
 
