@@ -7,9 +7,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Make sure to have node, angular and an IDE (such as Visual Studio Code) installed
 
-node: https://nodejs.org/en 
-angular: `npm install -g @angular/cli`
-Visual Studio Code: https://code.visualstudio.com/
+- node: https://nodejs.org/en 
+- angular: `npm install -g @angular/cli`
+- Visual Studio Code: https://code.visualstudio.com/
 
 Then install the app's dependencies: `npm install`
 
